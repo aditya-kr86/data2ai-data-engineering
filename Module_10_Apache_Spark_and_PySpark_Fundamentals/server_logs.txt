@@ -1,0 +1,5 @@
+INFO: Server started
+WARN: Memory usage at 80%
+ERROR: User login failed
+INFO: Data backup complete
+ERROR: Database connection timeout
